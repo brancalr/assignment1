@@ -10,6 +10,7 @@
 * I love coffee, probably too much for my own good.
 * Teenage Mutant Ninja Turtles hold a special place in my heart...
 * I'm a fan of anything zombie-related and I love cheesy 80's horror flicks.
+* The little TV I get to watch is usually consumed by the show Impractical Jokers (seriously the funniest show on TV).
 
 ##Programming Background
 
