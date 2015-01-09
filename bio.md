@@ -9,6 +9,7 @@
 * I absolutely love programming, especially the problem solving and creative aspects of it.
 * I love coffee, probably too much for my own good.
 * Teenage Mutant Ninja Turtles hold a special place in my heart...
+* I'm a fan of anything zombie-related and I love cheesy 80's horror flicks.
 
 ##Programming Background
 
