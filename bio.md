@@ -15,6 +15,10 @@
 * For my 161 final project I wrote a very basic account manager. What this program did was allow the user to input their username and password for various accounts, such as email, bank accounts, and wireless accounts. There was also an option for the program to generate a random password for any of the accounts should the user decide to do so. One thing to note is that there was no use of any sort of data base system, therefore when the program was exited none of the inputted values were stored. This is a project I would be interested in dabbling in again after I gain some knowledge in data bases.
 * For 162, I wrote a fun fantasy combat game as part of the final project that allowed the user to select the combatants and the program ran a simulated battle until only one fighter remained.
 
+#C
+
+* Exposure to C came from the Data Structures class where I implemented several different types including queues, linked lists, hash tables, and many more.
+
 #Assembly Language
 
 * I wrote several programs in MASM for CS 271222.
